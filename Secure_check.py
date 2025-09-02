@@ -51,8 +51,6 @@ if menu=='Home':
     This data helps in identifying high-frequency incident zones and time patterns for better resource planning.
     """)
 
-# Data Analytics and Visuals
-
 elif menu=='Data Analytics & Visuals':
 
     # Quick Metrics
@@ -376,4 +374,5 @@ elif menu=="Predict Logs":
                             {search_text}, and the stop {drug_text}.
                             stop duration: **{stop_duration}**
                             vehicle Number: **{vehicle_number}**.""" )
+
 
